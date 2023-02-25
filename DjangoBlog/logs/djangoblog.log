@@ -1,0 +1,63 @@
+[2023-02-25 18:29:41,131] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2023-02-25 18:33:59,666] INFO [django.utils.autoreload.trigger_reload:266 autoreload] D:\py\DjangoBlog\djangoblog\settings.py changed, reloading.
+[2023-02-25 18:34:01,167] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2023-02-25 18:34:37,084] INFO [django.utils.autoreload.trigger_reload:266 autoreload] D:\py\DjangoBlog\djangoblog\settings.py changed, reloading.
+[2023-02-25 18:34:38,556] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2023-02-25 18:35:35,038] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2023-02-25 18:35:38,957] INFO [django.utils.autoreload.trigger_reload:266 autoreload] D:\py\DjangoBlog\djangoblog\settings.py changed, reloading.
+[2023-02-25 18:35:40,395] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2023-02-25 18:35:53,886] INFO [blog.views.get_queryset_from_cache:71 views] set view cache.key:index_1
+[2023-02-25 18:35:53,928] INFO [blog.context_processors.seo_processor:17 context_processors] set processor cache.
+[2023-02-25 18:35:53,950] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2023-02-25 18:35:53,950] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2023-02-25 18:35:54,750] INFO [blog.templatetags.blog_tags.load_sidebar:131 blog_tags] load sidebar
+[2023-02-25 18:37:42,739] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2023-02-25 18:37:49,919] INFO [blog.views.get_queryset_from_cache:71 views] set view cache.key:index_1
+[2023-02-25 18:37:49,934] INFO [blog.context_processors.seo_processor:17 context_processors] set processor cache.
+[2023-02-25 18:37:49,938] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2023-02-25 18:37:49,938] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2023-02-25 18:37:50,240] INFO [blog.templatetags.blog_tags.load_sidebar:131 blog_tags] load sidebar
+[2023-02-25 18:37:50,285] INFO [blog.templatetags.blog_tags.load_sidebar:175 blog_tags] set sidebar cache.key:sidebari
+[2023-02-25 18:37:59,169] INFO [blog.views.get_queryset_from_cache:71 views] set view cache.key:tag_标签6_1
+[2023-02-25 18:37:59,189] INFO [blog.templatetags.blog_tags.load_sidebar:131 blog_tags] load sidebar
+[2023-02-25 18:37:59,202] INFO [blog.templatetags.blog_tags.load_sidebar:175 blog_tags] set sidebar cache.key:sidebarl
+[2023-02-25 18:38:01,640] INFO [blog.views.get_queryset_from_cache:71 views] set view cache.key:tag_标签16_1
+[2023-02-25 18:38:03,614] INFO [blog.views.get_queryset_from_cache:71 views] set view cache.key:category_list_我是父类目_1
+[2023-02-25 18:38:04,574] INFO [blog.views.get_queryset_from_cache:71 views] set view cache.key:category_list_子类目_1
+[2023-02-25 18:38:06,037] INFO [blog.views.get_queryset_from_cache:66 views] get view cache.key:index_1
+[2023-02-25 18:38:09,735] INFO [blog.models.comment_list:150 models] set article comments:14
+[2023-02-25 18:38:09,824] INFO [blog.templatetags.blog_tags.load_sidebar:131 blog_tags] load sidebar
+[2023-02-25 18:38:09,839] INFO [blog.templatetags.blog_tags.load_sidebar:175 blog_tags] set sidebar cache.key:sidebarp
+[2023-02-25 18:41:41,915] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":99997,"success":0,"not_same_site":["https://example.com/author/xiao.html"]}
+[2023-02-25 18:41:41,915] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":99997,"success":0,"not_same_site":["https://example.com/author/xiao.html"]}
+[2023-02-25 18:45:47,285] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2023-02-25 18:45:51,362] INFO [blog.views.get_queryset_from_cache:71 views] set view cache.key:index_1
+[2023-02-25 18:45:51,370] INFO [blog.context_processors.seo_processor:17 context_processors] set processor cache.
+[2023-02-25 18:45:51,374] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2023-02-25 18:45:51,374] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2023-02-25 18:45:51,674] INFO [blog.templatetags.blog_tags.load_sidebar:131 blog_tags] load sidebar
+[2023-02-25 18:45:51,717] INFO [blog.templatetags.blog_tags.load_sidebar:175 blog_tags] set sidebar cache.key:sidebari
+[2023-02-25 18:46:19,112] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":99997,"success":0,"not_same_site":["https://example.com/author/xiao.html"]}
+[2023-02-25 18:46:19,112] INFO [djangoblog.spider_notify.baidu_notify:16 spider_notify] {"remain":99997,"success":0,"not_same_site":["https://example.com/author/xiao.html"]}
+[2023-02-25 18:46:19,115] INFO [djangoblog.blog_signals.user_auth_callback:120 blog_signals] 
+[2023-02-25 18:46:19,115] INFO [djangoblog.blog_signals.user_auth_callback:120 blog_signals] 
+[2023-02-25 18:46:19,117] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebari
+[2023-02-25 18:46:19,117] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebari
+[2023-02-25 18:46:19,119] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarl
+[2023-02-25 18:46:19,119] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarl
+[2023-02-25 18:46:19,120] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarp
+[2023-02-25 18:46:19,120] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebarp
+[2023-02-25 18:46:19,122] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebara
+[2023-02-25 18:46:19,122] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebara
+[2023-02-25 18:46:19,124] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebars
+[2023-02-25 18:46:19,124] INFO [djangoblog.utils.delete_sidebar_cache:212 utils] delete sidebar key:sidebars
+[2023-02-25 18:46:19,175] INFO [blog.context_processors.seo_processor:17 context_processors] set processor cache.
+[2023-02-25 18:46:19,179] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2023-02-25 18:46:19,179] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2023-02-25 18:48:57,813] INFO [django.utils.autoreload.run_with_reloader:677 autoreload] Watching for file changes with StatReloader
+[2023-02-25 18:49:04,464] INFO [blog.context_processors.seo_processor:17 context_processors] set processor cache.
+[2023-02-25 18:49:04,470] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2023-02-25 18:49:04,470] INFO [djangoblog.utils.get_blog_setting:167 utils] set cache get_blog_setting
+[2023-02-25 18:51:13,373] INFO [blog.views.get_queryset_from_cache:71 views] set view cache.key:index_1
+[2023-02-25 18:51:13,476] INFO [blog.templatetags.blog_tags.load_sidebar:131 blog_tags] load sidebar
+[2023-02-25 18:51:13,485] INFO [blog.templatetags.blog_tags.load_sidebar:175 blog_tags] set sidebar cache.key:sidebari
